@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "types": ["cypress", "node","@testing-library/cypress"],
+      "module": "commonjs",
+        "lib": ["es6", "es5", "es7", "dom"],
+    },
+    "include": ["**/*.ts", "support/e2e.js"],
+  }

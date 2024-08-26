@@ -1,0 +1,15 @@
+userName: malithheshantha_0OECTb
+accessKey: 6D3Noygdsh2NMXeD8fQ7
+framework: playwright
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: chrome
+    browserVersion: latest
+browserstackLocal: false
+buildName: playwright tests 
+buildIdentifier: ${BUILD_NUMBER}
+projectName: My Playwright project
+testObservability: true
+debug: true
+consoleLogs: info
